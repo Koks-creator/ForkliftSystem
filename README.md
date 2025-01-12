@@ -41,7 +41,8 @@ Tools in the `DatasetPrepTools` directory:
 ## Installation
 
 1. Clone the repository
-2. Install dependencies:
+2. Install python 3.11 (or 3.9+ I used 3.11 but 3.9+ should be fine :P)
+3. Install dependencies:
 ```bash
 pip install torch numpy opencv-python filterpy pandas
 ```
