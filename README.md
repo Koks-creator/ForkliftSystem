@@ -208,3 +208,6 @@ CLI_LOG_LEVEL = logging.DEBUG
 FILE_LOG_LEVEL = logging.DEBUG
 ```
 
+### Train your own model
+https://github.com/Koks-creator/HowToTrainCustomYoloV5Model
+
